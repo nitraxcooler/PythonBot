@@ -43,13 +43,6 @@ pyinstaller --onefile --noconsole --add-data "pythonbot-lora;pythonbot-lora" pyt
 
 Your executable will appear in the dist folder.
 
-📂 Project Structure
-PythonBot/
-├─ pythonbot_local.py     # Main chatbot script
-├─ pythonbot-lora/        # Model weights or LoRA files
-├─ requirements.txt       # Dependencies
-└─ README.md              # This file
-
 📜 License
 
 This project is released under the MIT License. See LICENSE
