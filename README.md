@@ -21,9 +21,9 @@ cd PythonBot
 
 ### 2️⃣ Create and activate a virtual environment
 python -m venv venv
-# Windows
+### Windows
 .\pybot-venv\Scripts\activate
-# macOS/Linux
+### macOS/Linux
 source venv/bin/activate
 
 ### 3️⃣ Install dependencies
